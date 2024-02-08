@@ -1,12 +1,22 @@
-# TODO Create Variables
+# Comment is code that is not executed
+In VSCode I can use ctrl /
+Multiple lines of Comment
+why Comment
+#- explain the code to myself or others that might encounter the code
+#- pseudo code -
+TODO Create Variables
 #   - Create the following variables
+my_first_name = 'Dea' # loosely typed 'data type'
 #   - my_first_name
 #       -set this equal to your first name
 #   - my_last_name
+my_last_name = 'Lewis'
 #       -set this equal to your last name
 #   - my_year_of_birth
+my_year_of_birth = 1966 # this is an integar data type
 #       -set this equal to your birth year (doesn't have to be real should be less then 100 yrs ago)
 #   - current_year
+current_year = 2024
 #       -set this equal to 2020
 
 
